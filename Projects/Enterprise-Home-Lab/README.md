@@ -255,5 +255,5 @@ Enterprise-Home-Lab/
 
 # Disclaimer
 
-<img width="750" height="250" alt="Ary_Disclaimer" src="https://github.com/user-attachments/assets/a633b88b-e347-44f1-a537-1aa9e28b0f90" />
+<img width="450" height="250" alt="Ary_Disclaimer" src="https://github.com/user-attachments/assets/a633b88b-e347-44f1-a537-1aa9e28b0f90" />
 
