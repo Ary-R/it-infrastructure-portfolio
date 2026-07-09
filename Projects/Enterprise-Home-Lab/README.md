@@ -1,5 +1,4 @@
-![Uploading Screenshot 2026-07-09 at 5.46.29 PM.png…]()
-<img width="706" height="750" alt="Screenshot 2026-07-09 at 5 46 29 PM" src="https://github.com/user-attachments/assets/ad4261c7-47ac-4335-a0a1-eb99d671c207" />
+
 ## Project Status
 
 🚧 In Progress
@@ -83,7 +82,7 @@ The high-level architecture provides an overview of the enterprise network and i
 
 The detailed architecture illustrates the complete virtual infrastructure, including virtualization, network segmentation, firewall rules, virtual machines, and authorized security testing paths.
 
-<img width="950" height="1500" alt="Detailed Architecture" src="https://github.com/user-attachments/assets/e7406c45-2e90-4a26-b1fe-273cdbf18fcb" />
+<img width="1000" height="1500" alt="Detailed Architecture" src="https://github.com/user-attachments/assets/e7406c45-2e90-4a26-b1fe-273cdbf18fcb" />
 
 
 ### Network Zones
