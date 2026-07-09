@@ -255,4 +255,5 @@ Enterprise-Home-Lab/
 
 # Disclaimer
 
-This project is developed solely for educational purposes within a controlled virtual environment. All penetration testing activities are performed only against systems owned and managed within this lab.
+<img width="950" height="300" alt="Ary_Disclaimer" src="https://github.com/user-attachments/assets/a633b88b-e347-44f1-a537-1aa9e28b0f90" />
+
