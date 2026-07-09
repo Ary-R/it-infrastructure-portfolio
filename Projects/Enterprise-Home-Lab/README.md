@@ -63,7 +63,8 @@ The lab focuses on:
 
 The high-level architecture provides an overview of the enterprise network and illustrates how external users securely access the web server through Cloudflare Tunnel while pfSense protects and segments the internal network.
 
-> *(<img width="100" height="100" alt="High-Level Architecture" src="https://github.com/Ary-R/it-infrastructure-portfolio/blob/main/Projects/Enterprise-Home-Lab/images/High-Level%20Architecture.png" />
+> *(<img width="987" height="337" alt="High-Level Architecture" src="https://github.com/user-attachments/assets/995ab4e5-a1fd-49b3-bb67-714fce34a23f" />
+
 )*
 
 ### Architecture Summary
