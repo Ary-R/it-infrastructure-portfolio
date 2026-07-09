@@ -63,7 +63,7 @@ The lab focuses on:
 
 The high-level architecture provides an overview of the enterprise network and illustrates how external users securely access the web server through Cloudflare Tunnel while pfSense protects and segments the internal network.
 
-> *(<img width="987" height="337" alt="High-Level Architecture" src="https://github.com/user-attachments/assets/8184e2c3-5b8e-4822-810a-e0fbf1d68ead" />
+> *(<img width="100" height="100" alt="High-Level Architecture" src="https://github.com/Ary-R/it-infrastructure-portfolio/blob/main/Projects/Enterprise-Home-Lab/images/High-Level%20Architecture.png" />
 )*
 
 ### Architecture Summary
@@ -82,7 +82,7 @@ The high-level architecture provides an overview of the enterprise network and i
 
 The detailed architecture illustrates the complete virtual infrastructure, including virtualization, network segmentation, firewall rules, virtual machines, and authorized security testing paths.
 
-> *(<img width="1450" height="1642" alt="Detailed Architecture" src="https://github.com/user-attachments/assets/26cde14e-3a30-4256-90cb-6faf4324b3a3" />
+> *(<img width="100" height="100" alt="Detailed Architecture" src="https://github.com/Ary-R/it-infrastructure-portfolio/blob/main/Projects/Enterprise-Home-Lab/images/Detailed%20Architecture.png" />
 )*
 
 ### Network Zones
