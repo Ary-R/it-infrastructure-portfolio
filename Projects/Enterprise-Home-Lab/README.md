@@ -1,5 +1,5 @@
 
-## Project Status
+## <img width="40" height="40" alt="Icon Ary" src="https://github.com/user-attachments/assets/eca83f12-7a3d-4683-992e-3bb5960c5cb8" /> Project 1 - Status
 
 🚧 In Progress
 
