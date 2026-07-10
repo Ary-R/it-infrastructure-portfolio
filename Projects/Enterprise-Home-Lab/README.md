@@ -252,7 +252,7 @@ Enterprise-Home-Lab/
 - Enterprise Documentation
 
 ---
+<img width="800" height="263" alt="Screenshot 2026-07-10 at 11 45 53 PM" src="https://github.com/user-attachments/assets/5e499f4c-bcdd-4959-951c-a67a97a4b380" />
 
-<img width="1020" height="425" alt="GitFooter" src="https://github.com/user-attachments/assets/9b6cd48c-b6c7-493f-b097-7689ad90ce5b" />
 
 
