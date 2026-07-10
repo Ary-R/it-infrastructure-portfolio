@@ -253,5 +253,6 @@ Enterprise-Home-Lab/
 
 ---
 
-<img width="450" height="150" alt="Ary_Disclaimer" src="https://github.com/user-attachments/assets/a633b88b-e347-44f1-a537-1aa9e28b0f90" />
+<img width="1020" height="425" alt="GitFooter" src="https://github.com/user-attachments/assets/9b6cd48c-b6c7-493f-b097-7689ad90ce5b" />
+
 
