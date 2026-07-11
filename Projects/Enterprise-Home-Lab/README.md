@@ -82,7 +82,9 @@ The high-level architecture provides an overview of the enterprise network and i
 
 The detailed architecture illustrates the complete virtual infrastructure, including virtualization, network segmentation, firewall rules, virtual machines, and authorized security testing paths.
 
-<img width="1500" height="1500" alt="Detailed Architecture" src="Projects/Enterprise-Home-Lab/images/Detailed Architecture.png" />
+<p align="center">
+<img width="1500" height="1500" alt="Detailed Architecture" src="images/Detailed Architecture.png" />
+</p>
 
 
 ### Network Zones
