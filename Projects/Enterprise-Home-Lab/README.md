@@ -38,13 +38,13 @@ This project demonstrates:
 
 # High-Level Architecture
 
-The high-level architecture provides an overview of the enterprise network and illustrates how external users securely access the web server through Cloudflare Tunnel while pfSense protects and segments the internal network.
+Overview of the enterprise network design showing major components, security zones, and overall traffic flow.
 
 <img width="950" height="230" alt="High-Level Architecture" src="images/High-Level-Architecture.png" />
 
 # Detailed Architecture
 
-The detailed architecture illustrates the complete virtual infrastructure, including virtualization, network segmentation, firewall rules, virtual machines, and authorized security testing paths.
+Technical view of the virtual infrastructure showing VMware setup, pfSense interfaces, network segmentation, VM connections, and security testing flow.
 
 <p align="center">
 <img width="1500" height="1500" alt="Detailed Architecture" src="images/Detailed-Architecture.png" />
