@@ -47,7 +47,7 @@ Overview of the enterprise network design showing major components, security zon
 Technical view of the virtual infrastructure showing VMware setup, pfSense interfaces, network segmentation, VM connections, and security testing flow.
 
 <p align="center">
-<img width="1500" height="1500" alt="Detailed Architecture" src="images/Detailed-Architecture.png" />
+<img width="1500" height="1500" alt="Detailed Architecture" src="images/Detailed-Architecture-version.png" />
 </p>
 
 ## Environment
