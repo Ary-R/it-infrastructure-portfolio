@@ -227,14 +227,17 @@ Before vs After testing performed:
 Screenshots included:
 
 ```
-screenshots/
-
-├── Network Setup
-├── pfSense Configuration
-├── SSH Hardening
-├── Apache Hardening
-├── Security Testing
-└── Final Validation
+├── diagrams/
+│   ├── high-level-architecture.png
+│   └── detailed-architecture-dark.png
+│
+├── images/
+│   ├── phase-01/
+│   ├── phase-02/
+│   ├── phase-03/
+│   ├── phase-04/
+│   ├── phase-05/
+│   └── phase-06/
 ```
 
 ---
