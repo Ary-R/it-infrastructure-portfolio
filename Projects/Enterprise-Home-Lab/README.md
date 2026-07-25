@@ -40,7 +40,9 @@ This project demonstrates:
 
 Overview of the enterprise network design showing major components, security zones, and overall traffic flow.
 
-<img width="1500" height="1500" alt="High-Level Architecture" src="diagrams/High-Level Architecture.png" />
+<p align="center">
+<img width="1000" height="1000" alt="High-Level Architecture" src="diagrams/High-Level Architecture.png" />
+</p>
 
 # Detailed Architecture
 
