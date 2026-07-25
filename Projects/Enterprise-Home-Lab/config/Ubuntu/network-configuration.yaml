@@ -1,0 +1,18 @@
+# Ubuntu Server Network Configuration
+
+network:
+  version: 2
+
+  ethernets:
+    ens33:
+      addresses:
+        - 192.168.10.50/24
+
+      routes:
+        - to: default
+          via: 192.168.10.1
+
+      nameservers:
+        addresses:
+          - 192.168.10.1
+          - 8.8.8.8
