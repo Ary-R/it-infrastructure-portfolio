@@ -40,14 +40,14 @@ This project demonstrates:
 
 Overview of the enterprise network design showing major components, security zones, and overall traffic flow.
 
-<img width="950" height="230" alt="High-Level Architecture" src="images/High-Level-Architecture.png" />
+<img width="950" height="230" alt="High-Level Architecture" src="diagrams/High-Level-Architecture.png" />
 
 # Detailed Architecture
 
 Technical view of the virtual infrastructure showing VMware setup, pfSense interfaces, network segmentation, VM connections, and security testing flow.
 
 <p align="center">
-<img width="1500" height="1500" alt="Detailed Architecture" src="images/Detailed-Architecture-version.png" />
+<img width="1500" height="1500" alt="Detailed Architecture" src="diagrams/Detailed-Architecture-dark.png" />
 </p>
 
 ## Environment
