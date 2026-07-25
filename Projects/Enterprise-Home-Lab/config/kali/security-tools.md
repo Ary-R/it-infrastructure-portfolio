@@ -6,28 +6,16 @@
 
 Used for:
 
-- Network scanning
-- Host discovery
+- Network discovery
+- Port scanning
 - Service identification
 
 ---
 
-## Network Analysis
+## Kali Linux Environment
 
-### Wireshark
+Kali Linux is used as the security testing workstation for:
 
-Used for:
-
-- Packet capture
-- Traffic inspection
-- Network troubleshooting
-
----
-
-## Security Testing Environment
-
-Kali Linux provides the platform for:
-
-- Security assessment practice
-- Network testing
+- Network assessment
+- Security testing practice
 - Cybersecurity learning activities
