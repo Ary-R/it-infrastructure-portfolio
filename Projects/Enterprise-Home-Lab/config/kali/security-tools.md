@@ -1,25 +1,14 @@
 # Kali Linux Security Tools
 
-## Reconnaissance
+## Network Discovery
 
 ### Nmap
 
 Used for:
 
-- Network discovery
-- Port scanning
+- Network scanning
+- Host discovery
 - Service identification
-
----
-
-## Web Security Testing
-
-### Burp Suite
-
-Used for:
-
-- Web application testing
-- HTTP request analysis
 
 ---
 
@@ -29,16 +18,16 @@ Used for:
 
 Used for:
 
-- Packet inspection
-- Traffic monitoring
+- Packet capture
+- Traffic inspection
+- Network troubleshooting
 
 ---
 
-## Learning Platform
+## Security Testing Environment
 
-### TryHackMe
+Kali Linux provides the platform for:
 
-Used for:
-
-- Practical cybersecurity exercises
-- Hands-on security learning
+- Security assessment practice
+- Network testing
+- Cybersecurity learning activities
