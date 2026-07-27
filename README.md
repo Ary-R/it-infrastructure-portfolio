@@ -33,7 +33,7 @@ I have experience in IT Production Support and I'm currently transitioning into 
 
 | Project | Status |
 |----------|--------|
-| Enterprise Home Lab | ✅ Completed |
+| Enterprise Cybersecurity Home Lab | ✅ Completed |
 | Secure Web Server with Cloudflare Tunnel | 🚧 In Progress |
 | Network Traffic Analysis | ⏳ Planned |
 | Security Monitoring Lab | ⏳ Planned |
