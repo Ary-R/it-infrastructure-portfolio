@@ -46,7 +46,9 @@ Overview of the secure web hosting design showing Cloudflare Tunnel connectivity
 
 **High-Level Architecture**
 
-
+<p align="center">
+<img width="700" height="700" alt="secure-web-server" src="diagrams/secure-web-server-cloudflare-tunnel-architecture.png" />
+</p>
 
 ---
 
@@ -329,3 +331,9 @@ Through this project, I gained hands-on experience with:
 ---
 
 ⭐ Built as a practical cybersecurity infrastructure learning project.
+
+---
+
+<p align="center">
+<img width="800" height="263" align="center" alt="footer.Ary" src="https://github.com/user-attachments/assets/5e499f4c-bcdd-4959-951c-a67a97a4b380">
+</p>
